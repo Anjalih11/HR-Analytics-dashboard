@@ -81,19 +81,9 @@ Analyzes when employees start and end their workday.
 
 ## Overall HR Dashboard
 
-![Dashboard](Annotation 2026-03-12 192113.png)
+![Dashboard](Annotation 2026-03-12 192140.png)
 
-## Attendance Insights
 
-![Attendance](Annotation 2026-03-12 192140.png)
-
-## Work From Home Analysis
-
-![WFH](Annotation 2026-03-12 192200.png)
-
-## Sick Leave Trends
-
----
 
 # ⚙ Tools & Technologies Used
 
