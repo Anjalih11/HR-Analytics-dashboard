@@ -81,7 +81,7 @@ Analyzes when employees start and end their workday.
 
 ## Overall HR Dashboard
 
-![Dashboard](Annotation 2026-03-12 192140.png)
+![Dashboard](hrd.png)
 
 
 
